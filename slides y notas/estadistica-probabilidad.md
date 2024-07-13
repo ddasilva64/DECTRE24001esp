@@ -79,6 +79,24 @@ Una ***alta varianza indica que los datos están dispersos***; una ***baja varia
 
 En la imagen se muestra un ejemplo de muestras de dos poblaciones con la misma media pero varianzas diferentes. La población roja tiene media 100 y varianza 100 (desviación estándar=10) mientras que la población azul tiene media 100 y varianza 2500 (desviación estándar=50).
 
+## Cuartil 1 (percentil 25)
+
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 1</span>][r010]***: El concepto es igual al de mediana, salvo que aquí la división ya no es en el 50%. El 25% de las observaciones es menor que el primer cuartil.
+
+![Cuartil 1][i010]  
+
+## Cuartil 2 (percentil 50)
+
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 2</span>][r011]***: El concepto es igual al de mediana, aquí la división es en el 50%. El 50% de las observaciones es menor que el segundo cuartil.
+
+![Cuartil 2][i011]  
+
+## Cuartil 3 (percentil 75)
+
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 3</span>][r013]***: El concepto es igual al de mediana, salvo que aquí la división ya no es en el 50%. El 75% de las observaciones es menor que el tercer cuartil
+
+![Cuartil 3][i012]  
+
 ## Listado de referencias externas
 
 * Promedio (Wikipedia)  
@@ -121,6 +139,18 @@ En la imagen se muestra un ejemplo de muestras de dos poblaciones con la misma m
 
 [r009]: https://es.wikipedia.org/wiki/Varianza
 
+* Cuartil 1 (Wikipedia)   
+
+[r010]: https://es.wikipedia.org/wiki/Percentil
+
+* Cuartil 2 (Wikipedia)   
+
+[r011]: https://es.wikipedia.org/wiki/Percentil
+
+* Cuartil 3 (Wikipedia)   
+
+[r012]: https://es.wikipedia.org/wiki/Percentil
+
 ## Listado de imágenes
 
 * Promedio  
@@ -146,3 +176,15 @@ En la imagen se muestra un ejemplo de muestras de dos poblaciones con la misma m
 * Varianza  
 
 [i009]: https://i.imgur.com/PnRDpZU.png "Varianza"
+
+* Cuartil 1 (percentil 25)  
+
+[i010]: https://i.imgur.com/jXR2Wlw.png "Cuartil 1 (percentil 25)"
+
+* Cuartil 2 (percentil 50)  
+
+[i011]: https://i.imgur.com/n64wNxa.png "Cuartil 2 (percentil 50)"
+
+* Cuartil 3 (percentil 75)  
+
+[i011]: https://i.imgur.com/08Pt7BD.png "Cuartil 3 (percentil 75)"
