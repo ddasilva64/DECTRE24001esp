@@ -18,19 +18,23 @@
 
 ## Insulina
 
-***[<span style="font-family:Verdana; font-size:0.95em;color:red">Insulina</span>][r000]***: La insulina es una hormona producida por el páncreas que ayuda a que la glucosa en la sangre entre a las células de los músculos, grasa e hígado, donde se usa para obtener energía. La glucosa proviene de los alimentos. El hígado también produce glucosa cuando el cuerpo la necesita, como, por ejemplo, cuando una persona está ayunando. Cuando los niveles de glucosa en sangre aumentan después de comer, el páncreas libera insulina en la sangre. La insulina entonces reduce la glucosa en sangre para mantenerla en el rango normal.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Insulina</span>][r000]***: La insulina​ es una hormona polipeptídica, producida y secretada por las células beta de los islotes de Langerhans del páncreas. Permite la entrada de glucosa en las células, intervieniendo en el control de la glucemia y en el metabolismo de los nutrientes, para la síntesis de componentes celulares como el glucógeno y los triglicéridos.
+
+![Insulina][i000]
 
 ## Resistencia a la insulina
 
-***[<span style="font-family:Verdana; font-size:0.95em;color:red">Resistencia a la insulina</span>][r001]***: 
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Resistencia a la insulina</span>][r001]***: La resistencia a la insulina es un trastorno de salud en el cual los tejidos presentan una respuesta disminuida para absorber la glucosa circulante ante la acción de la insulina; en especial el hígado, el músculo esquelético y el tejido adiposo. Como resultado, el páncreas produce más insulina para ayudar a que la glucosa entre a las células. Mientras el páncreas pueda producir suficiente insulina para superar la débil respuesta de las células a la insulina, los niveles de glucosa en la sangre se mantendrán en un rango saludable.  
 
-La resistencia a la insulina se produce cuando las células de los músculos, grasa e hígado no responden bien a la insulina y no pueden absorber la glucosa de la sangre fácilmente. Como resultado, el páncreas produce más insulina para ayudar a que la glucosa entre a las células. Mientras el páncreas pueda producir suficiente insulina para superar la débil respuesta de las células a la insulina, los niveles de glucosa en la sangre se mantendrán en un rango saludable.  
+![Resistencia a la insulina][i001] 
 
 ## Prediabetes
 
-***[<span style="font-family:Verdana; font-size:0.95em;color:red">Prediabetes</span>][r002]***: 
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Prediabetes</span>][r002]***: La prediabetes​ es un término médico que se refiere a niveles de glucosa en sangre por encima de los valores normales pero no son tan altos como para llamarse diabetes mellitus (un nivel entre el normal y el de la diabetes). Aquellos individuos que tienen niveles de glucosa en valores de prediabetes tienen un elevado riesgo de tener diabetes mellitus tipo 2 en el futuro mediato, así como de desarrollar complicaciones cardiovasculares.  
 
-En la prediabetes los niveles de glucosa en sangre son más altos de lo normal pero no lo suficientemente altos para ser diagnosticados como diabetes. La prediabetes usualmente ocurre en personas que ya tienen cierta resistencia a la insulina, o cuyas células beta en el páncreas no están produciendo suficiente insulina para mantener la glucosa en sangre en el rango normal. Sin suficiente insulina, la glucosa adicional permanece en el torrente sanguíneo en lugar de entrar a las células. Con el tiempo, una persona podría desarrollar diabetes tipo 2.  
+![Prediabetes][i002] 
+
+Sin embargo, en la mayoría de las personas, la prediabetes es asintomática y con reducir el consumo de alimentos con índice glicémico medio, y restringir los alimentos de índice glicémico alto en la dieta, junto con aumentar la actividad física y al bajar el peso, se puede retrasar o prevenir la diabetes tipo 2. Otras personas si presentan síntomas de la prediabetes se manifiesta como fatiga, polifagia (aumento anormal de la necesidad de querer comer) o polidipsia (aumento anormal de la necesidad de querer comer). Otros síntomas comunes son: aumento de peso y poliuria ( emisión de un volumen de orina superior al esperado).
 
 ***Incidencia***  
 
@@ -99,8 +103,9 @@ Si los resultados son normales pero existen otros factores de riesgo que puedan 
 
 ## Presión arterial
 
-***[<span style="font-family:Verdana; font-size:0.95em;color:red">Presión arterial</span>][r003]***: 
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Presión arterial</span>][r003]***: La presión sanguínea es la tensión ejercida por la sangre que circula sobre las paredes de los vasos sanguíneos, y constituye uno de los principales signos vitales. La presión de la sangre disminuye a medida que la sangre se mueve a través de arterias, arteriolas, vasos capilares, y venas; el término presión sanguínea generalmente se refiere a la presión arterial, es decir, la presión en las arterias más grandes, las arterias que forman los vasos sanguíneos que toman la sangre desde el corazón. Era comúnmente medida por medio de un esfigmomanómetro, que usaba la altura de una columna de mercurio para reflejar la presión de circulación. Los valores de la presión sanguínea se expresan en milímetros del mercurio (mmHg), a pesar de que muchos dispositivos de presión vascular modernos ya no usan mercurio.  
 
+![Presión arterial][i003] 
 
 * ***Diastólica***: Se mide cuando el los ventrículos del corazón se relajan. Una presión diastólica de 80 milímetros de mercurio se considera en el rango de los niveles de presión normales.  
 
@@ -122,7 +127,15 @@ Si los resultados son normales pero existen otros factores de riesgo que puedan 
 
 ## Concentración de glucosa en sangre (mg/dl), en ayunas
 
-***[<span style="font-family:Verdana; font-size:0.95em;color:red">Concentración de glucosa en sangre (mg/dl), en ayunas</span>][r004]***: 
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Glucemia</span>][r004]***: La glucemia es la medida de concentración de glucosa libre en la sangre,​ suero o plasma sanguíneo. Constituye una de las variables más importantes que el organismo regula (homeostasis) en el medio interno.
+
+* ***Glucemia en ayunas***: Determina los niveles de azúcar en sangre tras un ayuno mínimo de 8 horas. Es la primera prueba que se realiza para diagnosticar los trastornos del metabolismo de los hidratos de carbono, especialmente la diabetes mellitus y las hipoglucemias
+
+* ***Glucemia postprandial***: Tras de comer, es normal que los niveles de glucosa en sangre se eleven durante las dos primeras horas.
+
+![Glucemia][i004]
+
+***Medidas***
 
 * ***0 es absurdo***.
 * ***(, 54] requiere de acción inmediata***.
@@ -178,7 +191,9 @@ Niveles normales de glucosa en la prueba de tres horas:
 
 ## Grosor del pliegue cutáneo tricipital  
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Grosor del pliegue cutáneo tricipital</span>][r005]***: 
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Grosor del pliegue cutáneo tricipital</span>][r005]***: Medir los pliegues cutáneos permite valorar los depósitos de grasa del cuerpo humano.   
+
+![Grosor del pliegue cutáneo tricipital][i005]
 
 Un pliegue cutáneo ***mide indirectamente el grosor del tejido adiposo subcutáneo***. Es decir, los valores obtenidos a partir de la medición de los pliegues cutáneos en diferentes puntos del cuerpo, ***se pueden utilizar para*** predecir la densidad corporal y ***calcular la masa grasa y la masa libre de grasa***. Los valores ideales dependen mucho de la edad y del sexo.
 
@@ -232,6 +247,16 @@ La hiperinsulinemia se traduce en una cantidad de insulina en sangre mayor que l
 
 ## IMC
 
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">IMC</span>][r006]***: El índice de masa corporal (IMC) es una razón matemática que asocia la masa (peso) y la talla de un individuo.
+
+Se calcula según la operación
+
+IMC = ($\frac{peso\ en\ Kg}{(altura\ en\ m)^2}$)
+
+donde la masa se expresa en kilogramos y el cuadrado de la estatura en metros al cuadrado, siendo la unidad de medida del IMC en el sistema MKS.
+
+![IMC][i006]
+
 Tabla IMC de mujeres por edad
 
 | edad     | IMC      | valoración |
@@ -256,7 +281,9 @@ Como se puede ver, factores como edad y sexo cambian los límites de los interva
 
 ## Diabetes  
 
-La diabetes es una enfermedad que ocurre cuando el ***nivel de glucosa en sangre***, también llamado azúcar en la sangre, es ***demasiado alto***. La glucosa en sangre es la principal fuente de energía y proviene de los alimentos que consumimos. ***La insulina***, una hormona producida por el páncreas, ***ayuda a que la glucosa*** de los alimentos ***llegue a las células para ser utilizada como energía***.
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Diabetes mellitus</span>][r007]***: La diabetes mellitus (DM) es un conjunto de trastornos metabólicos, cuya característica común principal es la presencia de concentraciones elevadas de glucosa en la sangre de manera persistente o crónica, debido ya sea a un defecto en la producción de insulina, a una resistencia a la acción de ella para utilizar la glucosa, a un aumento en la producción de glucosa o a una combinación de estas causas. También se acompaña de anormalidades en el metabolismo de los lípidos, proteínas, sales minerales y electrolitos. Es decir, la diabetes es una enfermedad que ocurre cuando el ***nivel de glucosa en sangre***, también llamado azúcar en la sangre, es ***demasiado alto***. La glucosa en sangre es la principal fuente de energía y proviene de los alimentos que consumimos. ***La insulina***, una hormona producida por el páncreas, ***ayuda a que la glucosa*** de los alimentos ***llegue a las células para ser utilizada como energía***.
+
+![Diabetes mellitus][i007]
 
 ***Síntomas de la diabetes***
 
@@ -272,34 +299,72 @@ La diabetes es una enfermedad que ocurre cuando el ***nivel de glucosa en sangre
 
 ***La prevalencia normal en una población de mujeres está entre el 7% y el 10%.***
 
-![Aprendizaje supervisado][i000]  
-
 
 ## Listado de referencias externas
 
-* Promedio (Wikipedia)  
+* Insulina (Wikipedia)  
 
-[r000]: https://es.wikipedia.org/wiki/Promedio "referencia a promedio en Wikipedia"
+[r000]: https://es.wikipedia.org/wiki/Insulina "referencia a insulina en Wikipedia"
 
-* Mediana (Wikipedia)  
+* Resitencia a la insulina (Wikipedia)  
 
-[r001]: https://es.wikipedia.org/wiki/Mediana_(estad%C3%ADstica) "referencia a mediana en Wikipedia"
+[r001]: https://es.wikipedia.org/wiki/Resistencia_a_la_insulina "referencia a resistencia la insulina en Wikipedia"
 
-* Moda (Wikipedia)  
+* Prediabetes (Wikipedia)  
 
-[r002]: https://es.wikipedia.org/wiki/Moda_(estad%C3%ADstica) "referencia a moda en Wikipedia"
+[r002]: https://es.wikipedia.org/wiki/Prediabetes "referencia a prediabetes en Wikipedia"
 
-* Sesgo (Wikipedia)  
+* Presión arterial (Wikipedia)  
 
-[r003]: https://es.wikipedia.org/wiki/Sesgo_estad%C3%ADstico "referencia a sesgo en Wikipedia"
+[r003]: https://es.wikipedia.org/wiki/Presi%C3%B3n_sangu%C3%ADnea "referencia a presión arterial en Wikipedia"
 
-* Rango (Wikipedia)  
+* Glucemia (Wikipedia)  
 
-[r004]: https://es.wikipedia.org/wiki/Rango_(estad%C3%ADstica) "referencia a rango en Wikipedia"
+[r004]: https://es.wikipedia.org/wiki/Glucemia "referencia a glucemia en Wikipedia"
+
+* Grosor pliegue cutáneo tricipital (Universidad Autónoma del Estado de Hidalgo - México -)
+
+[r005]: https://es.wikipedia.org/wiki/Glucemia "referencia a grosor pliegue cutáneo tricipital en Universidad Autónoma del Estado de Hidalgo (México)"
+
+* IMC (Wikipedia)
+
+[r006]: https://es.wikipedia.org/wiki/%C3%8Dndice_de_masa_corporal "referencia a IMC en Wikipedia"
+
+* Diabetes mellitus (Wikipedia)
+
+[r007]: https://es.wikipedia.org/wiki/%C3%8Dndice_de_masa_corporal "referencia a diabetes mellitus en Wikipedia"
+
 
 ## Listado de imágenes
 
-* Leo Breiman  
+* Insulina  
 
-[i000]: https://i.imgur.com/SszQ8rp.jpg "Leo Breiman"
+[i000]: https://i.imgur.com/Tf5NvRY.jpg "Insulina"
 
+* Resistencia a la insulina   
+
+[i001]: https://i.imgur.com/m4mJLJU.jpg "Resistencia a la insulina"
+
+* Prediabetes  
+
+[i002]: https://i.imgur.com/A1Dy17y.jpg "Prediabetes"
+
+* Presión arterial  
+
+[i003]: https://i.imgur.com/rWmJAHG.jpg "Presión arterial"
+
+* Glucemia
+
+[i004]: https://i.imgur.com/w3mYefj.png "Glucemia"
+
+* Grosor pliegue cutáneo tricipital
+
+[i005]: https://i.imgur.com/nB1qkf3.png "Grosor pliegue cutáneo tricipital"
+
+* IMC
+
+[i006]: https://i.imgur.com/SyhLljn.png "IMC"
+
+* Diabetes mellitus
+
+[i007]: https://i.imgur.com/8SLPvdV.jpg "Diabetes mellitus"
