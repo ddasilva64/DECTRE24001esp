@@ -93,9 +93,31 @@ En la imagen se muestra un ejemplo de muestras de dos poblaciones con la misma m
 
 ## Cuartil 3 (percentil 75)
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 3</span>][r013]***: El concepto es igual al de mediana, salvo que aquí la división ya no es en el 50%. El 75% de las observaciones es menor que el tercer cuartil
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 3</span>][r012]***: El concepto es igual al de mediana, salvo que aquí la división ya no es en el 50%. El 75% de las observaciones es menor que el tercer cuartil
 
 ![Cuartil 3][i012]  
+
+## Rango intercuartílico
+
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Rango intercuartílico</span>][r013]***: El rango intercuartílico o IQR es la diferencia entre el tercer y el primer cuartil. Es una medida de la dispersión estadística. ***Es una medida de variabilidad adecuada cuando la medida de posición central empleada ha sido la mediana***.  
+
+    Se define como la diferencia entre el tercer cuartil (Q3) y el primer cuartil (Q1), es decir: RQ = Q3 - Q1. A la mitad del rango intercuartílico se le conoce como desviación cuartil (DQ), es afectada muy poco por cuentas extremas. Esto lo hace una ***buena medida de dispersión para distribuciones sesgadas***: DQ = RQ/2= (Q3 - Q1)/2.
+
+    Se usa para construir los ***diagramas de caja y bigote*** (box plots) que sirven para visualizar la variabilidad de una variable y comparar distribuciones de la misma variable; además de ***ubicar valores extremos***.  
+
+    ![Rango intercuartílico][i013]  
+
+## Límite superior outliers
+
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Límite superior outliers</span>][r014]***: Son los puntos a la derecha de los bigotes de la caja Q3 + 1.5 x IQR.
+
+![Límite superior outlier][i014] 
+
+## Límite inferior outliers
+
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Límite inferior outliers</span>][r015]***: Son los puntos a la izquierda de los bigotes de la caja Q1 - 1.5 x IQR.
+
+![Límite inferior outliers][i015] 
 
 ## Listado de referencias externas
 
@@ -133,23 +155,35 @@ En la imagen se muestra un ejemplo de muestras de dos poblaciones con la misma m
 
 * Desviación estándar (Wikipedia)  
 
-[r008]: https://es.wikipedia.org/wiki/Desviaci%C3%B3n_t%C3%ADpica
+[r008]: https://es.wikipedia.org/wiki/Desviaci%C3%B3n_t%C3%ADpica "referencia a desviación estándar en Wikipedia"
 
 * Varianza (Wikipedia)  
 
-[r009]: https://es.wikipedia.org/wiki/Varianza
+[r009]: https://es.wikipedia.org/wiki/Varianza "referencia a varianza en Wikipedia"
 
 * Cuartil 1 (Wikipedia)   
 
-[r010]: https://es.wikipedia.org/wiki/Percentil
+[r010]: https://es.wikipedia.org/wiki/Percentil "referencia a cuartil 1 en Wikipedia"
 
 * Cuartil 2 (Wikipedia)   
 
-[r011]: https://es.wikipedia.org/wiki/Percentil
+[r011]: https://es.wikipedia.org/wiki/Percentil "referencia a cuartil 2 en Wikipedia"
 
 * Cuartil 3 (Wikipedia)   
 
-[r012]: https://es.wikipedia.org/wiki/Percentil
+[r012]: https://es.wikipedia.org/wiki/Percentil "referencia a cuartil 3 en Wikipedia"
+
+* Rango intercuartílico (Wikipedia)   
+
+[r013]: https://es.wikipedia.org/wiki/Rango_intercuart%C3%ADlico "referencia a rango intercuartílico en Wikipedia"
+
+* Límite superior outliers (Wikipedia)   
+
+[r014]: https://es.wikipedia.org/wiki/Valor_at%C3%ADpico#Valor_at%C3%ADpico_extremo "referencia a límite superior outliers en Wikipedia"
+
+* Límite inferior outliers (Wikipedia)   
+
+[r015]: https://es.wikipedia.org/wiki/Valor_at%C3%ADpico#Valor_at%C3%ADpico_extremo "referencia a límite inferior outliers en Wikipedia"
 
 ## Listado de imágenes
 
@@ -187,4 +221,16 @@ En la imagen se muestra un ejemplo de muestras de dos poblaciones con la misma m
 
 * Cuartil 3 (percentil 75)  
 
-[i011]: https://i.imgur.com/08Pt7BD.png "Cuartil 3 (percentil 75)"
+[i012]: https://i.imgur.com/08Pt7BD.png "Cuartil 3 (percentil 75)"
+
+* Rango intercuartílico  
+
+[i013]: https://i.imgur.com/AeddtFp.jpg "Rango intercuartílico"
+
+* Límite superior outliers  
+
+[i014]: https://i.imgur.com/RM6RVH6.jpg "Límite superior outliers"
+
+* Límite inferior outliers  
+
+[i015]: https://i.imgur.com/pEbuiPP.png "Límite inferior outliers"
