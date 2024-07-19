@@ -39,9 +39,9 @@
 
 * ***Distribución no sesgada (centrada)*** => ***promedio = mediana = moda*** (distribución bayesiana).  
 
-* ***Distribución sesgada hacia la izquierda (sesgo negativo)*** => ***moda < mediana < promedio***. Es una distribución está sesgada a la izquierda ***si la cola izquierda*** (el lado con valores más pequeños) ***es más larga o está estirada en comparación con la cola derecha***. Esto significa que ***la mayoría de los puntos de datos se concentran en el lado derecho de la distribución***, mientras que unos pocos valores extremos empujan la media hacia la izquierda. ***El promedio suele ser menor que la mediana*** en una distribución sesgada a la izquierda.  
+* ***Distribución sesgada hacia la derecha (sesgo positivo)*** => ***moda < mediana < promedio***. Es una distribución está sesgada a la derecha ***si la cola derecha*** (el lado con valores más grandes) ***es más larga o está estirada en comparación con la cola izquierda***. Esto significa que ***la mayoría de los puntos de datos se concentran en el lado izquierdo de la distribución***, mientras que unos pocos valores extremos empujan la media hacia la derecha. ***El promedio suele ser mayor que la mediana*** en una distribución sesgada a la derecha.  
 
-* ***Distribución sesgada hacia la derecha (sesgo positivo)*** => ***moda > mediana > promedio***. Es una distribución está sesgada a la derecha ***si la cola derecha*** (el lado con valores más grandes) ***es más larga o está estirada en comparación con la cola izquierda***. Esto significa que ***la mayoría de los puntos de datos se concentran en el lado izquierdo de la distribución***, mientras que unos pocos valores extremos empujan la media hacia la derecha. ***El promedio suele ser mayor que la mediana*** en una distribución sesgada a la derecha.  
+* ***Distribución sesgada hacia la izquierda (sesgo negativo)*** => ***moda > mediana > promedio***. Es una distribución está sesgada a la izquierda ***si la cola izquierda*** (el lado con valores más pequeños) ***es más larga o está estirada en comparación con la cola derecha***. Esto significa que ***la mayoría de los puntos de datos se concentran en el lado derecho de la distribución***, mientras que unos pocos valores extremos empujan la media hacia la izquierda. ***El promedio suele ser menor que la mediana*** en una distribución sesgada a la izquierda.  
 
 ![Sesgo][i003]  
 
@@ -280,7 +280,7 @@ Para ello, podemos filtrar el dataset.
 
 * Distribución de probabilidad (Wikipedia)
 
-[r018]: https://ca.wikipedia.org/wiki/Distribuci%C3%B3_normal "referencia a distribución de probabilidad en Wik
+[r018]: https://ca.wikipedia.org/wiki/Distribuci%C3%B3_normal "referencia a distribución de probabilidad en Wikipedia"
 
 * Distribución normal o gaussiana (Wikipedia)
 
