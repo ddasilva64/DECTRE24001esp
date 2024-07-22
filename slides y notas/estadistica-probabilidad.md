@@ -204,6 +204,30 @@ Para ello, podemos filtrar el dataset.
 
 ![Número outliers][i016]
 
+## Coeficiente de correlación de Pearson
+
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Coeficiente de correlación de Pearson</span>][r027]***: El ***coeficiente de correlación de Pearson*** es una prueba que ***mide la relación estadística entre dos variables continuas***. Si la asociación entre los elementos no es lineal, entonces el coeficiente no se encuentra representado adecuadamente.
+
+| Valor r   | Fuerza de la correlación |
+| :-------: | :----------------------- |
+| 0.0 < 0.1 | no hay correlación       |
+| 0.1 < 0.3	| poca correlación         |
+| 0.3 < 0.5	| correlación media        |
+| 0.5 < 0.7 | correlación alta         |
+| 0.7 < 1	| correlación muy alta     |
+
+ El coeficiente de correlación puede tomar un rango de valores de +1 a -1.
+
+Un valor mayor que 0 indica que existe una correlación positiva. En este caso las variables estarían asociadas en sentido directo. Cuanto más cerca de +1, más alta es su asociación. Un valor exacto de +1 indicaría una relación lineal positiva perfecta.
+
+![Coeficiente de correlación de Pearson][i027]
+
+## Matriz de correlación de Pearson
+
+* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Matriz de correlación de Pearson</span>][r028]***: La matriz de correlación muestra los valores de correlación, que miden el grado de relación lineal entre cada par de variables. Los valores de correlación se pueden ubicar entre -1 y +1. Si las dos variables tienden a aumentar o disminuir al mismo tiempo, el valor de correlación es positivo.
+
+![Matriz de correlación de Pearson][i028]
+
 ## Listado de referencias externas
 
 * Promedio (Wikipedia)  
@@ -314,6 +338,14 @@ Para ello, podemos filtrar el dataset.
 
 [r026]: https://es.wikipedia.org/wiki/Distribuci%C3%B3n_t_de_Student "referencia a distribución t de Student en Wikipedia"
 
+* Coefiente de correlación de Pearson (DataTab)
+
+[r027]: https://datatab.es/tutorial/pearson-correlation "referencia a coefiente de correlación de Pearson en DataTab"
+
+* Matriz de correlación de Pearson (Wikipedia)
+
+[r028]: https://es.wikipedia.org/wiki/Matriz_de_correlaci%C3%B3n "referencia a coefiente de correlación de Pearson en Wikipedia"
+
 ## Listado de imágenes
 
 * Promedio  
@@ -403,3 +435,11 @@ Para ello, podemos filtrar el dataset.
 * Distribución t de Student
 
 [i026]: https://i.imgur.com/4VWVQBz.jpg   "Distribución t de Student"
+
+* Coeficiente de correlación de Pearson
+
+[i027]: https://i.imgur.com/okjY0k8.png   "Coeficiente de correlación de Pearson"
+
+* Matriz de correlación de Pearson
+
+[i028]: https://i.imgur.com/Yspew2y.png   "Matriz de correlación de Pearson"
