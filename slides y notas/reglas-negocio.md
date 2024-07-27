@@ -18,7 +18,7 @@
 
 ## Insulina
 
-***[<span style="font-family:Verdana; font-size:0.95em;color:red">Insulina</span>][r000]***: La insulina​ es una hormona polipeptídica, producida y secretada por las células beta de los islotes de Langerhans del páncreas. Permite la entrada de glucosa en las células, intervieniendo en el control de la glucemia y en el metabolismo de los nutrientes, para la síntesis de componentes celulares como el glucógeno y los triglicéridos.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Insulina</span>][r000]***: La insulina​ es una hormona polipeptídica, producida y secretada por las células beta de los islotes de Langerhans del páncreas. Permite la entrada de glucosa en las células, interviniendo en el control de la glucemia y en el metabolismo de los nutrientes, para la síntesis de componentes celulares como el glucógeno y los triglicéridos.
 
 ![Insulina][i000]
 
@@ -235,8 +235,6 @@ Si el nivel > 30 U/ml en ayunas, se plantea una insulinorresistencia.
 | **Edad**       | La sensibilidad a la insulina puede disminuir con la edad, resultando en niveles más altos en personas mayores |
 | **Sexo**       | Las diferencias hormonales pueden influir, aunque los rangos son similares para adultos de ambos sexos         |
 
-
-
 La hiperinsulinemia se traduce en una cantidad de insulina en sangre mayor que la que se considera normal. Algunos de los cuadros clínicos que desencadenan este desbalance son los siguientes:
 
 * ***Diabetes tipo 2***: la hiperinsulinemia, en sí misma, ***no implica diabetes***. De todas formas, que el páncreas produzca más cantidad de esta hormona suele estar relacionado con que las células no sean capaces de interactuar correctamente con ella, lo cual sí indica una diabetes tipo 2.  
@@ -299,7 +297,6 @@ Como se puede ver, factores como edad y sexo cambian los límites de los interva
 
 ***La prevalencia normal en una población de mujeres está entre el 7% y el 10%.***
 
-
 ## Listado de referencias externas
 
 * Insulina (Wikipedia)  
@@ -332,7 +329,7 @@ Como se puede ver, factores como edad y sexo cambian los límites de los interva
 
 * Diabetes mellitus (Wikipedia)
 
-[r007]: https://es.wikipedia.org/wiki/%C3%8Dndice_de_masa_corporal "referencia a diabetes mellitus en Wikipedia"
+[r007]: https://es.wikipedia.org/wiki/Diabetes_mellitus_tipo_2 "referencia a diabetes mellitus en Wikipedia"
 
 
 ## Listado de imágenes

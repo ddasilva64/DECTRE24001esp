@@ -53,7 +53,7 @@ Como se ha visto, la  medida de tendencia central, depende de la asimetría (ses
 
 ![Medidas de la tendencia central][i017]  
 
-***Los valores atípicos pueden modificar la medida de la tendencia central***, es decir, el indicador puede variar. ***¡Si no se tratan adecuadamente los outliers, toda la interpretación de tus datos puede ser errónea!***.
+***Los valores atípicos pueden modificar la medida de la tendencia central***, es decir, el indicador puede variar. ***¡Si no se tratan adecuadamente los outliers, toda la interpretación de nuestros datos puede ser errónea!***.
 
 ## Rango
 
@@ -61,55 +61,55 @@ Como se ha visto, la  medida de tendencia central, depende de la asimetría (ses
 
 ## Distribuciones de probabilidad
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribuciones de probabilidad</span>][r018]***: En ***Estadística, una distribución de datos*** se refiere al ***patrón o dispersión de valores*** que una ***variable*** puede adoptar ***dentro de un dataset***. Describe ***cómo se distribuyen los*** valores entre los diferentes ***resultados posibles***.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribuciones de probabilidad</span>][r018]***: En ***Estadística, una distribución de datos*** se refiere al ***patrón o dispersión de valores*** que una ***variable*** puede adoptar ***dentro de un dataset***. Describe ***cómo se distribuyen los*** valores entre los diferentes ***resultados posibles***.
 
 ![Distribución de probabilidad][i008]  
 
 ## Distribución normal o gaussiana
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución normal o gaussiana</span>][r019]***: Es una ***distribución simétrica en forma de campana donde la media, la mediana y la moda son todas iguales***. ***Se caracteriza por*** su ***media y desviación estándar***.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución normal o gaussiana</span>][r019]***: Es una ***distribución simétrica en forma de campana donde la media, la mediana y la moda son todas iguales. Se caracteriza por*** su ***media y desviación estándar***.
 
 ![Distribución de probabilidad][i019]  
 
 ## Distribución uniforme
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución uniforme</span>][r020]***: Es una distribución en la que ***todos los valores***, dentro de un rango específico, ***tienen la misma probabilidad de ocurrir***. ***Se caracteriza por*** una ***función de densidad de probabilidad constante en todo el rango***.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución uniforme</span>][r020]***: Es una distribución en la que ***todos los valores***, dentro de un rango específico, ***tienen la misma probabilidad de ocurrir. Se caracteriza por*** una ***función de densidad de probabilidad constante en todo el rango***.
 
 ![Distribución uniforme][i020]  
 
 ## Distribución binomial
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución binomial</span>][r021]***: Es una distribución de probabilidad discreta que describe el ***número de éxitos en un número fijo de ensayos*** de Bernoulli ***independientes, cada uno con la misma probabilidad de éxito***.  
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución binomial</span>][r021]***: Es una distribución de probabilidad discreta que describe el ***número de éxitos en un número fijo de ensayos*** de Bernoulli ***independientes, cada uno con la misma probabilidad de éxito***.  
 
 ![Distribución binomial][i021]  
 
 ## Distribución de Poisson
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución de Poisson</span>][r022]***: Es una distribución de probabilidad discreta que ***describe el número de eventos que ocurren en un intervalo fijo de tiempo o espacio, dada una tasa constante de ocurrencia e independencia entre eventos***.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución de Poisson</span>][r022]***: Es una distribución de probabilidad discreta que ***describe el número de eventos que ocurren en un intervalo fijo de tiempo o espacio, dada una tasa constante de ocurrencia e independencia entre eventos***.
 
 ![Distribución de Poisson][i022]  
 
 ## Distribución exponencial
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución exponencial</span>][r023]***: Es una distribución de probabilidad continua que ***describe el tiempo entre eventos en un proceso de Poisson, donde los eventos ocurren de forma continua e independiente a un ritmo constante***.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución exponencial</span>][r023]***: Es una distribución de probabilidad continua que ***describe el tiempo entre eventos en un proceso de Poisson, donde los eventos ocurren de forma continua e independiente a un ritmo constante***.
 
 ![Distribución exponencial][i023]
 
 ## Distribución gamma
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución gamma</span>][r024]***: Es una distribución de probabilidad continua que ***generaliza la distribución exponencial y describe el tiempo hasta el enésimo evento en un proceso de Poisson***.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución gamma</span>][r024]***: Es una distribución de probabilidad continua que ***generaliza la distribución exponencial y describe el tiempo hasta el enésimo evento en un proceso de Poisson***.
 
 ![Distribución gamma][i024]
 
 ## Distribución Chi-Cuadrado
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución Chi-Cuadrado</span>][r025]***: Es una distribución de probabilidad continua que surge en el contexto de la prueba de hipótesis y ***describe la distribución de la suma de las desviaciones normales estándar al cuadrado***.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución Chi-Cuadrado</span>][r025]***: Es una distribución de probabilidad continua que surge en el contexto de la prueba de hipótesis y ***describe la distribución de la suma de las desviaciones normales estándar al cuadrado***.
 
 ![Distribución Chi-Cuadrado][i025]
 
 ## Distribución t de Student
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución t de Student</span>][r026]***: Es una distribución de probabilidad continua que ***tiene una forma similar a la distribución normal pero tiene colas más pesadas. Se utiliza comúnmente en pruebas de hipótesis cuando el tamaño de la muestra es pequeño y se desconoce la desviación estándar de la población***.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Distribución t de Student</span>][r026]***: Es una distribución de probabilidad continua que ***tiene una forma similar a la distribución normal pero tiene colas más pesadas. Se utiliza comúnmente en pruebas de hipótesis cuando el tamaño de la muestra es pequeño y se desconoce la desviación estándar de la población***.
 
 ![Distribución t de Student][i026]
 
@@ -130,13 +130,13 @@ Los analistas de datos y los científicos obtienen:
 
 ## Desviación estándar  
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Desviación estándar</span>][r008]***: La desviación estándar mide la ***dispersión de los datos respecto a la media***. Se trata de la ***raíz cuadrada de la varianza***, que en sí misma no es una medida de dispersión.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Desviación estándar</span>][r008]***: La desviación estándar mide la ***dispersión de los datos respecto a la media***. Se trata de la ***raíz cuadrada de la varianza***, que en sí misma no es una medida de dispersión.
 
 ![Desviación estándar][i008]  
 
 ## Varianza
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Varianza</span>][r009]***: Retorna la varianza muestral, que debe ser un iterable de al menos dos números reales. La varianza, o momento de segundo orden respecto a la media, es una ***medida de la variabilidad (difusión o dispersión) de los datos***.  
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Varianza</span>][r009]***: Retorna la varianza muestral, que debe ser un iterable de al menos dos números reales. La varianza, o momento de segundo orden respecto a la media, es una ***medida de la variabilidad (difusión o dispersión) de los datos***.  
 
 Una ***alta varianza indica que los datos están dispersos***; una ***baja varianza indica que los datos están agrupados estrechamente alrededor de la media***.  
 
@@ -146,47 +146,47 @@ En la imagen se muestra un ejemplo de muestras de dos poblaciones con la misma m
 
 ## Cuartil 1 (percentil 25)
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 1</span>][r010]***: El concepto es igual al de mediana, salvo que aquí la división ya no es en el 50%. El 25% de las observaciones es menor que el primer cuartil.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 1</span>][r010]***: El concepto es igual al de mediana, salvo que aquí la división ya no es en el 50%. El 25% de las observaciones es menor que el primer cuartil.
 
 ![Cuartil 1][i010]  
 
 ## Cuartil 2 (percentil 50)
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 2</span>][r011]***: El concepto es igual al de mediana, aquí la división es en el 50%. El 50% de las observaciones es menor que el segundo cuartil.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 2</span>][r011]***: El concepto es igual al de mediana, aquí la división es en el 50%. El 50% de las observaciones es menor que el segundo cuartil.
 
 ![Cuartil 2][i011]  
 
 ## Cuartil 3 (percentil 75)
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 3</span>][r012]***: El concepto es igual al de mediana, salvo que aquí la división ya no es en el 50%. El 75% de las observaciones es menor que el tercer cuartil
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Cuartil 3</span>][r012]***: El concepto es igual al de mediana, salvo que aquí la división ya no es en el 50%. El 75% de las observaciones es menor que el tercer cuartil
 
 ![Cuartil 3][i012]  
 
 ## Rango intercuartílico
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Rango intercuartílico</span>][r013]***: El rango intercuartílico o IQR es la diferencia entre el tercer y el primer cuartil. Es una medida de la dispersión estadística. ***Es una medida de variabilidad adecuada cuando la medida de posición central empleada ha sido la mediana***.  
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Rango intercuartílico</span>][r013]***: El rango intercuartílico o IQR es la diferencia entre el tercer y el primer cuartil. Es una medida de la dispersión estadística. ***Es una medida de variabilidad adecuada cuando la medida de posición central empleada ha sido la mediana***.  
 
-    Se define como la diferencia entre el tercer cuartil (Q3) y el primer cuartil (Q1), es decir: RQ = Q3 - Q1. A la mitad del rango intercuartílico se le conoce como desviación cuartil (DQ), es afectada muy poco por cuentas extremas. Esto lo hace una ***buena medida de dispersión para distribuciones sesgadas***: DQ = RQ/2= (Q3 - Q1)/2.
+Se define como la diferencia entre el tercer cuartil (Q3) y el primer cuartil (Q1), es decir: RQ = Q3 - Q1. A la mitad del rango intercuartílico se le conoce como desviación cuartil (DQ), es afectada muy poco por cuentas extremas. Esto lo hace una ***buena medida de dispersión para distribuciones sesgadas***: DQ = RQ/2= (Q3 - Q1)/2.
 
-    Se usa para construir los ***diagramas de caja y bigote*** (box plots) que sirven para visualizar la variabilidad de una variable y comparar distribuciones de la misma variable; además de ***ubicar valores extremos***.  
+Se usa para construir los ***diagramas de caja y bigote*** (box plots) que sirven para visualizar la variabilidad de una variable y comparar distribuciones de la misma variable; además de ***ubicar valores extremos***.  
 
-    ![Rango intercuartílico][i013]  
+![Rango intercuartílico][i013]  
 
 ## Límite superior outliers
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Límite superior outliers</span>][r014]***: Son los puntos a la derecha de los bigotes de la caja Q3 + 1.5 x IQR.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Límite superior outliers</span>][r014]***: Son los puntos a la derecha de los bigotes de la caja Q3 + 1.5 x IQR.
 
 ![Límite superior outlier][i014] 
 
 ## Límite inferior outliers
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Límite inferior outliers</span>][r015]***: Son los puntos a la izquierda de los bigotes de la caja Q1 - 1.5 x IQR.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Límite inferior outliers</span>][r015]***: Son los puntos a la izquierda de los bigotes de la caja Q1 - 1.5 x IQR.
 
 ![Límite inferior outliers][i015]  
 
 ## Número outliers y cómo tratarlos
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Número outliers y cómo tratarlos</span>][r016]***: Los outliers serían los puntos a la izquierda de los bigotes del diagrama de caja (Q1 - 1.5 x IQR) y los puntos a la derecha de los bigotes de la caja (Q3 + 1.5 x IQR).
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Número outliers y cómo tratarlos</span>][r016]***: Los outliers serían los puntos a la izquierda de los bigotes del diagrama de caja (Q1 - 1.5 x IQR) y los puntos a la derecha de los bigotes de la caja (Q3 + 1.5 x IQR).
 
 ***Cómo tratar los outliers***
 
@@ -206,7 +206,7 @@ Para ello, podemos filtrar el dataset.
 
 ## Coeficiente de correlación de Pearson
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Coeficiente de correlación de Pearson</span>][r027]***: El ***coeficiente de correlación de Pearson*** es una prueba que ***mide la relación estadística entre dos variables continuas***. Si la asociación entre los elementos no es lineal, entonces el coeficiente no se encuentra representado adecuadamente.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Coeficiente de correlación de Pearson</span>][r027]***: El ***coeficiente de correlación de Pearson*** es una prueba que ***mide la relación estadística entre dos variables continuas***. Si la asociación entre los elementos no es lineal, entonces el coeficiente no se encuentra representado adecuadamente.
 
 | Valor r   | Fuerza de la correlación |
 | :-------: | :----------------------- |
@@ -224,7 +224,7 @@ Un valor mayor que 0 indica que existe una correlación positiva. En este caso l
 
 ## Matriz de correlación de Pearson
 
-* ***[<span style="font-family:Verdana; font-size:0.95em;color:red">Matriz de correlación de Pearson</span>][r028]***: La matriz de correlación muestra los valores de correlación, que miden el grado de relación lineal entre cada par de variables. Los valores de correlación se pueden ubicar entre -1 y +1. Si las dos variables tienden a aumentar o disminuir al mismo tiempo, el valor de correlación es positivo.
+***[<span style="font-family:Verdana; font-size:0.95em;color:red">Matriz de correlación de Pearson</span>][r028]***: La matriz de correlación muestra los valores de correlación, que miden el grado de relación lineal entre cada par de variables. Los valores de correlación se pueden ubicar entre -1 y +1. Si las dos variables tienden a aumentar o disminuir al mismo tiempo, el valor de correlación es positivo.
 
 ![Matriz de correlación de Pearson][i028]
 
@@ -298,7 +298,7 @@ Un valor mayor que 0 indica que existe una correlación positiva. En este caso l
 
 [r016]: https://medium.com/@martacasdelg/c%C3%B3mo-identificar-y-tratar-outliers-con-python-bf7dd530fc3 "referencia a cómo identificar y tratar outliers con Python en Medium"
 
-* Medidas de tendencia central (Medium)
+* Medidas de tendencia central (Wikipedia)
 
 [r017]: https://es.wikipedia.org/wiki/Medidas_de_tendencia_central "referencia a medidas de tendencia central en Wikipedia"
 
@@ -396,50 +396,50 @@ Un valor mayor que 0 indica que existe una correlación positiva. En este caso l
 
 [i015]: https://i.imgur.com/pEbuiPP.png "Límite inferior outliers"
 
-* Número inferior outliers  
+* Número de outliers  
 
-[i016]: https://i.imgur.com/wqxNpIK.png "Número inferior outliers"
+[i016]: https://i.imgur.com/wqxNpIK.png "Número de outliers"
 
 * Medidas de la tendencia central  
 
-[i017]: https://i.imgur.com/a35E15z.png  "Medidas de la tendencia central"
+[i017]: https://i.imgur.com/a35E15z.png "Medidas de la tendencia central"
 
 * Distribución normal o gaussiana
 
-[i019]: https://i.imgur.com/ozdxtvE.png  "Distribución normal o gaussiana"
+[i019]: https://i.imgur.com/ozdxtvE.png "Distribución normal o gaussiana"
 
 * Distribución uniforme
 
-[i020]: https://i.imgur.com/QO1kKuV.png  "Distribución uniforme"
+[i020]: https://i.imgur.com/QO1kKuV.png "Distribución uniforme"
 
 * Distribución binomial
 
-[i021]: https://i.imgur.com/y8MpqqY.png  "Distribución binomial"
+[i021]: https://i.imgur.com/y8MpqqY.png "Distribución binomial"
 
 * Distribución de Poisson
 
-[i022]: https://i.imgur.com/MuiQM2y.png  "Distribución de Poisson"
+[i022]: https://i.imgur.com/MuiQM2y.png "Distribución de Poisson"
 
 * Distribución exponencial
 
-[i023]: https://i.imgur.com/PIm1tbK.png  "Distribución exponencial"
+[i023]: https://i.imgur.com/PIm1tbK.png "Distribución exponencial"
 
 * Distribución gamma
 
-[i024]: https://i.imgur.com/fXVkZbu.png  "Distribución gamma"
+[i024]: https://i.imgur.com/fXVkZbu.png "Distribución gamma"
 
 * Distribución Chi-Cuadrado
 
-[i025]: https://i.imgur.com/rDeq5U4.png  "Distribución Chi-Cuadrado"
+[i025]: https://i.imgur.com/rDeq5U4.png "Distribución Chi-Cuadrado"
 
 * Distribución t de Student
 
-[i026]: https://i.imgur.com/4VWVQBz.jpg   "Distribución t de Student"
+[i026]: https://i.imgur.com/4VWVQBz.jpg "Distribución t de Student"
 
 * Coeficiente de correlación de Pearson
 
-[i027]: https://i.imgur.com/okjY0k8.png   "Coeficiente de correlación de Pearson"
+[i027]: https://i.imgur.com/okjY0k8.png "Coeficiente de correlación de Pearson"
 
 * Matriz de correlación de Pearson
 
-[i028]: https://i.imgur.com/Yspew2y.png   "Matriz de correlación de Pearson"
+[i028]: https://i.imgur.com/Yspew2y.png "Matriz de correlación de Pearson"
