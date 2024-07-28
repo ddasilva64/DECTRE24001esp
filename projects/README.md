@@ -15,6 +15,8 @@
   - [Setting up the environment and libraries](PRODIA001/PRODIA001_envi.ipynb)
 - **_Dataset_**
   - [Load dataset](PRODIA001/PRODIA001_load.ipynb)
+- **_EDA (Exploratory Data Analysis)_**
+  - [General description of attributes](docs/eda_general_description_of_attributes.md)
 - [Disclaimer](DISCLAIMER.md)
 - [ChatGPT 3.5 usage](CHATGPT_USAGE.md)
 - [License](LICENSE.md)
