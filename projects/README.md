@@ -17,6 +17,9 @@
   - [Load dataset](PRODIA001/PRODIA001_load.ipynb)
 - **_EDA (Exploratory Data Analysis)_**
   - [General description of attributes](docs/eda_general_description_of_attributes.md)
+- **_Feature Engineering_**
+  - [Before outlier treatment](docs/feature_engineering_before_outlier_treatment.md)  
+  - [Conclusions before outlier treatment](docs/feature_engineering_conclusions_before_outlier_treatment.md) 
 - [Disclaimer](DISCLAIMER.md)
 - [ChatGPT 3.5 usage](CHATGPT_USAGE.md)
 - [License](LICENSE.md)
