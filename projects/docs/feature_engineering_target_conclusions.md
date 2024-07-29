@@ -30,7 +30,7 @@
 
 World population in 2021 (World Bank) = 7,888,963,821
 
-* ***The diabetes rate among Pima women is 3.60 times higher than in the United States and 5.13 times higher than worldwide. That is, the number of deaths from diabetes may exceed that of one woman per year.***.
+* ***The diabetes rate among Pima women is 3.60 times higher than in the United States and 5.13 times higher than worldwide. That is, the number of deaths from diabetes may exceed that of one woman per year.***
 
 <p><br></p> 
 
