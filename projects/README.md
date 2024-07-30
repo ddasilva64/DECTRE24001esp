@@ -30,6 +30,7 @@
   - [Bivariate analysis first interpretation](docs/feature_engineering_bivariate_analysis_first_interpretation.md)
   - [Insight](docs/feature_engineering_insight.md)
 - **_Modeling_**
+  - [Overfitting treatment](docs/modeling_overfitting_treatment.md)
 - [Disclaimer](DISCLAIMER.md)
 - [ChatGPT 3.5 usage](CHATGPT_USAGE.md)
 - [License](LICENSE.md)
