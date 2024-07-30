@@ -28,6 +28,8 @@
   - [Previous bivariate analysis](docs/feature_engineering_previous_bivariate_analysis.md)
   - [Pearson matrix interpretation](docs/feature_engineering_pearson_matrix_interpretation.md)
   - [Bivariate analysis first interpretation](docs/feature_engineering_bivariate_analysis_first_interpretation.md)
+  - [Insight](docs/feature_engineering_insight.md)
+- **_Modeling_**
 - [Disclaimer](DISCLAIMER.md)
 - [ChatGPT 3.5 usage](CHATGPT_USAGE.md)
 - [License](LICENSE.md)
