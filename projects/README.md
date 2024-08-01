@@ -30,7 +30,11 @@
   - [Bivariate analysis first interpretation](docs/feature_engineering_bivariate_analysis_first_interpretation.md)
   - [Insight](docs/feature_engineering_insight.md)
 - **_Modeling_**
+  - [Feature importances analysis](docs/modeling_feature_importances_analysis.md)
   - [Confusion matrix interpretation](docs/modeling_confusion_matrix_interpretation.md)
+  - [Metrics interpretation](docs/modeling_metrics_interpretation.md)
+- [Preliminary Conclusions and recommendations](docs/preliminary_conclusions_and_recommendations.md)
+- [Evolution until 2024 and definitive conclusions](docs/evolution_until_2024_and_definitive_conclusions.md)
 - [Disclaimer](DISCLAIMER.md)
 - [ChatGPT 3.5 usage](CHATGPT_USAGE.md)
 - [License](LICENSE.md)
