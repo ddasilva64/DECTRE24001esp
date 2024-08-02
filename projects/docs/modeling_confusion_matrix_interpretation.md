@@ -9,7 +9,7 @@
 * False Positive (FP) = 13
 * False Negative (FN) = 22
 
-* True => the values ​​were predicted accurately (86+33=119)
+* True  => the values ​​were predicted accurately (86+33=119)
 * False => there was an error or an incorrect prediction (13+22=35)
 
 There was a $\frac{(100-35)}{119}·100$ = ***70.59% accuracy in the prediction***

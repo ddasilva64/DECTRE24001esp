@@ -2,21 +2,29 @@
 
 ## Metrics interpretation
 
-* ***precision*** (positive predictive value): Proportion of relevant instances among the retrieved instances. In other words, it answers the question "What proportion of positive identifications have actually been correct?"
+* ***precision*** (positive predictive value): Proportion of relevant instances among the retrieved instances. In other words, it answers the question "***What proportion of positive identifications have actually been correct?***"
 
-diabetes $=\frac{TP}{TP+FP}=\frac{33}{33+13}=\frac{33}{46}=0.72$
+diabetes $=\frac{TP}{TP+FP}=\frac{33}{33+13}=\frac{33}{46}=0.72$ 
 
-* ***recall*** (sensitivity or hit rate or true positive rate -TPR-): Proportion of the total number of relevant instances that have actually been retrieved. It answers the question "What proportion of true positives have been correctly identified?"  
+***Calculations with confusion matrix data match with the classification report metrics***.
+
+* ***recall*** (sensitivity or hit rate or true positive rate -TPR-): Proportion of the total number of relevant instances that have actually been retrieved. It answers the question "***What proportion of true positives have been correctly identified?***"  
 
 diabetes $=\frac{TP}{TP+FN}=\frac{33}{33+22}=\frac{33}{55}=0.60$
 
-* ***f1-score***: This is a measure of the accuracy of a test, it is the harmonic mean of precision and recall. It can have a maximum score of 1 (perfect precision and recall) and a minimum of 0. In general, it is a measure of the accuracy and robustness of your model  
+***Calculations with confusion matrix data match with the classification report metrics***.
+
+* ***f1-score***: This is a measure of the accuracy of a test, it is the harmonic mean of precision and recall. It can have a maximum score of 1 (perfect precision and recall) and a minimum of 0. ***In general, it is a measure of the accuracy and robustness of our model***.  
 
 diabetes $=\frac{2xprecisionxrecall}{precision+recall}=\frac{2x0.72x0.60}{0.72+0.60}=\frac{0.86}{1.32}=0.65$
 
-* ***accuracy***: Proportion of predictions that the model has classified correctly.  
+***Calculations with confusion matrix data match with the classification report metrics***.
+
+* ***accuracy***: ***Proportion of predictions that the model has classified correctly***.  
 
 diabetes $=\frac{number of correct predictions}{number of predictions}=\frac{TP+TN}{TP+TN+FP+FN}=\frac{33+86}{33+86+13+22}=\frac{119}{154}=0.77$
+
+***Calculations with confusion matrix data match with the classification report metrics***.
 
 The model identifies non-diabetic cases very well and diabetes cases a little worse. It is better, in a first analysis, to diagnose a healthy person than a sick one, since a second test will clarify whether the diabetes prediction is correct.
 

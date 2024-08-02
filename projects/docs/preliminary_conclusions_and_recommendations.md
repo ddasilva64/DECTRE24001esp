@@ -13,6 +13,13 @@
 7. ***The average reproductive rate is only slightly above the population replacement rate***, so there could be a downward trend in the population and ***a demographic crisis could be brewing in this population***.
 8. ***There must be some feature*** in this population, ***more important than age***, among the reasons for the high incidence of diabetes ***and that has to do with the high degree of obesity, for sure***.
 
+***The tree indicates***:
+1. The ***blue classes*** indicate ***diabetes***.
+2. If ***age > 32 (approx.)***, people have an ***increased risk of developing diabetes***.
+3. If ***glucose > 128 (approx.), people have diabetes***.
+
+***By the way, all of this it's OK***.
+
 ## Recommendations
 
 1. ***Healthier diet*** (lower in calories).
