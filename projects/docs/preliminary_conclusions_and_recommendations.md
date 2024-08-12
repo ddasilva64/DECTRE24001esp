@@ -1,4 +1,20 @@
-# Preliminary conclusions & recommendations  
+# Preliminary conclusions & recommendations 
+
+## Tree without outliers (we did it like this)
+
+![Tree, done right](https://i.imgur.com/UZY8tRd.png)
+
+***Everything seems fine, right?***
+
+***See PRODIA001***.
+
+## Tree with outliers (we didn't do it this way)
+
+![Tree, done wrong](https://i.imgur.com/ihvIWpb.png)
+
+***Warning!***: Look at blue classes (diabetes), and last 2 brown classes (gini = 0.153, and gini = 0.0). ***Something went wrong, right?***
+
+***By the way, this model, was not overfitting too, but as you can see, it is wrong (see PRODIA002)***.
 
 ## Preliminary conclusions
 

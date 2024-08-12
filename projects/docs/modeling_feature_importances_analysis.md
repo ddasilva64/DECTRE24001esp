@@ -16,6 +16,18 @@ The remaining features ***(pregnancies, with 4%, and blood pressure, with 2%) ha
 
 ***Important***: Note that the characteristic with the least importance is pressure, which means that it must be the one that indicates the greatest impurity in the data (it tells us the least), ***so pressure must be the root of our tree***.  
 
+## Importance of key features without outliers (we did it like this)
+
+![Importance of key features, done right](https://i.imgur.com/fBHtxMj.png)
+
+***Everything seems fine, right?***
+
+## Importance of key features with outliers (we didn't do it this way)
+
+![Importance of key features, done wrong](https://i.imgur.com/EdJnAje.png)
+
+***Warning!***: Pedigree, insulin and pregnancies have the same weight (7%). ***Something went wrong, right?***
+
 <p><br></p> 
 
 [ChatGPT usage](../CHATGPT_USAGE.md)  
